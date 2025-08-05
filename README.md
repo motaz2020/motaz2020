@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moataz Soliman </h1>
-<h3 align="center"> Mechatronics Engineer .ASU   |   Innovation Engineer @ Samsung Electronics   |   ITI Graduate 2023   |   Intern @ Si-Vision   |   UDACITY   |   NASA Space Apps</h3>
+<h3 align="center"> Mechatronics Engineer .ASU   |   Innovation Engineer @ Samsung Electronics   |   ITI Graduate 2023   |   Intern @ Si-Vision Academy  |   UDACITY   |   NASA Space Apps</h3>
 <h3 align="center">--------------------------------------------------------------------------------------------------------</h3>
   
 <h3 align="left">
