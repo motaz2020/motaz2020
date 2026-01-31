@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **motaz8413@gmail.com**
 
-- 📄 Feel free to ask for my [Resume](https://drive.google.com/file/d/1edtiCZA1eowoTEGGEp_DjeiGmdVgkUsc/view?usp=sharing)
+- 📄 Feel free to ask for my [Resume](https://drive.google.com/file/d/14o2TdkEcuHTt_SRlcnLVdzgKyFm717Ha/view?usp=sharing)
 
 
 
